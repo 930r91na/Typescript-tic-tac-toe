@@ -12,7 +12,7 @@ let boardState = [
 ];
 let currentMove = "X";
 
-function createCell(row, col, content = "") {
+function createCell(row: number, col: number, content = "") {
   const cell = document.createElement("button");
   cell.setAttribute("data-row", row.toString());
   cell.setAttribute("data-col", col.toString());
