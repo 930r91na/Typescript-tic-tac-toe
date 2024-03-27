@@ -1,16 +1,11 @@
-<h1 align="center">
-  <a href="https://ui.dev">
-    <img
-      src="https://ui.dev/images/logos/ui.png"
-      alt="UI.dev Logo" width="300" />
-  </a>
-  <br />
-</h1>
-
-<h3 align="center">TypeScript Course Project - Tic Tac Toe</h3>
+# Tic tac toe with typescript
 
 ### Info
 Modification of  UI.dev's "TypeScript" course project.
+
+
+https://github.com/930r91na/Typescript-tic-tac-toe/assets/93169706/a5feeee8-79da-445a-b4d5-c82a9185b3f7
+
 
 For more information on the course, visit **[ui.dev/typescript](https://ui.dev/typescript/)**.
 
